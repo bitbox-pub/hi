@@ -13,6 +13,9 @@
     "hello world"
   ],
   "jspm": {
-    "main": "hi.js"
+    "main": "hi.js",
+    "map": {
+      "box": "@empty"
+    }
   }
 }
